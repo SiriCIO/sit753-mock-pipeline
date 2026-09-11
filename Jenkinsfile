@@ -1,4 +1,5 @@
-pipeline {
+pipeline { 
+    //triggered via commit
     agent any
 
     triggers {
